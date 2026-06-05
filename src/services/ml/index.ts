@@ -3,3 +3,4 @@ export * from './imageProcessing';
 export * from './livenessService';
 export * from './mlPipeline';
 export * from './recognitionService';
+export * from './nativeFaceDetector';
